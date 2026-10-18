@@ -1,0 +1,7 @@
+PASS train/validation: disjoint projects, class IDs and exact feature vectors
+PASS train/test: disjoint projects, class IDs and exact feature vectors
+PASS validation/test: disjoint projects, class IDs and exact feature vectors
+PASS all raw CSV SHA256 checks and ZIP CRC verification at download
+PASS fitted imputation medians equal training medians for all seven configurations
+PASS LR scaling means equal training-only imputed means
+PASS test metrics recomputed from saved prediction records and confusion-matrix totals

@@ -1,0 +1,6 @@
+project,split,raw_rows,valid_rows,excluded_rows,conflicting_id_rows,negative_cells_to_missing,missing_feature_cells,defective,non_defective
+ant-1.7,train,745,745,0,0,0,0,166,579
+jedit-4.3,train,492,492,0,0,0,0,11,481
+poi-3.0,train,442,442,0,0,0,0,281,161
+ivy-2.0,validation,352,352,0,0,0,0,40,312
+camel-1.6,test,965,965,0,0,0,0,188,777

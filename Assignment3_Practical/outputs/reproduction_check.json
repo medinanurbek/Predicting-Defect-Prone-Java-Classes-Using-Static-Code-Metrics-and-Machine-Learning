@@ -1,0 +1,9 @@
+{
+  "same_environment_repeat": "PASS",
+  "byte_identical_files": {
+    "metrics.csv": true,
+    "test_predictions.csv": true,
+    "validation_permutation_importance.csv": true,
+    "split_manifest.csv": true
+  }
+}

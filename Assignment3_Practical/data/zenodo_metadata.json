@@ -1,0 +1,130 @@
+{
+  "created": "2020-03-02T11:48:10.572980+00:00",
+  "modified": "2020-03-03T10:18:15.841939+00:00",
+  "id": 3693686,
+  "conceptrecid": "3693685",
+  "doi": "10.5281/zenodo.3693686",
+  "conceptdoi": "10.5281/zenodo.3693685",
+  "doi_url": "https://doi.org/10.5281/zenodo.3693686",
+  "metadata": {
+    "title": "Unified Bug Dataset",
+    "doi": "10.5281/zenodo.3693686",
+    "publication_date": "2020-03-02",
+    "description": "<p><strong>A Public Unified Bug Dataset for Java and its Assessment Regarding Metrics and Bug Prediction.</strong></p>\n\n<p>Online appendix for the paper submitted to the <strong><em>Software Quality Journal</em></strong>.</p>\n\n<p>Bug datasets have been created and used by many researchers to build and validate novel bug prediction models. In this work, our aim is to collect existing public source code metrics based bug datasets and unify their contents. Furthermore, we wish to assess the plethora of collected metrics and the capabilities of the unified bug dataset in bug prediction.<br>\nWe considered 5 public datasets and we downloaded the corresponding source code for each system in the datasets and performed source code analysis to obtain a common set of source code metrics. This way, we produced a unified bug dataset at class and file level as well. We investigated the diversion of metric definitions and values of the different bug datasets. Finally, we used a decision tree algorithm to show the capabilities of the dataset in bug prediction.<br>\nWe found that there are statistically significant differences in the values of the original and the newly calculated metrics, furthermore, notations and definitions can severely differ. We compared the bug prediction capabilities of the original and the extended metric suites (within-project learning). Afterwards, we merged all classes (and files) into one large dataset which consists of 47,618 elements (43,744 for files) and we evaluated the bug prediction model build on this large dataset as well. Finally, we also investigated cross-project capabilities of the bug prediction models and datasets. We made the unified dataset publicly available for everyone. By using a public unified dataset as an input for different bug prediction related investigations, researchers can make their studies reproducible, thus able to be validated and verified.</p>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Ferenc, Rudolf",
+        "affiliation": "University of Szeged, Hungary",
+        "orcid": "0000-0001-8897-7403"
+      },
+      {
+        "name": "T\u00f3th, Zolt\u00e1n",
+        "affiliation": "University of Szeged, Hungary"
+      },
+      {
+        "name": "Lad\u00e1nyi, Gergely",
+        "affiliation": "University of Szeged, Hungary"
+      },
+      {
+        "name": "Siket, Istv\u00e1n",
+        "affiliation": "University of Szeged, Hungary",
+        "orcid": "0000-0003-4064-1489"
+      },
+      {
+        "name": "Gyim\u00f3thy, Tibor",
+        "affiliation": "University of Szeged, Hungary",
+        "orcid": "0000-0002-2123-7387"
+      }
+    ],
+    "keywords": [
+      "Bug dataset, code metrics, static code analysis, bug prediction"
+    ],
+    "version": "1.2",
+    "resource_type": {
+      "title": "Dataset",
+      "type": "dataset"
+    },
+    "license": {
+      "id": "cc-by-4.0"
+    },
+    "relations": {
+      "version": [
+        {
+          "index": 0,
+          "is_last": true,
+          "parent": {
+            "pid_type": "recid",
+            "pid_value": "3693685"
+          }
+        }
+      ]
+    }
+  },
+  "title": "Unified Bug Dataset",
+  "links": {
+    "self": "https://zenodo.org/api/records/3693686",
+    "self_html": "https://zenodo.org/records/3693686",
+    "preview_html": "https://zenodo.org/records/3693686?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.3693686",
+    "self_doi": "https://doi.org/10.5281/zenodo.3693686",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.3693686",
+    "reserve_doi": "https://zenodo.org/api/records/3693686/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/3693685",
+    "parent_html": "https://zenodo.org/records/3693685",
+    "parent_doi": "https://doi.org/10.5281/zenodo.3693685",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.3693685",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:3693686/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:3693686/sequence/default",
+    "files": "https://zenodo.org/api/records/3693686/files",
+    "media_files": "https://zenodo.org/api/records/3693686/media-files",
+    "latest": "https://zenodo.org/api/records/3693686/versions/latest",
+    "latest_html": "https://zenodo.org/records/3693686/latest",
+    "versions": "https://zenodo.org/api/records/3693686/versions",
+    "draft": "https://zenodo.org/api/records/3693686/draft",
+    "access_links": "https://zenodo.org/api/records/3693686/access/links",
+    "access_grants": "https://zenodo.org/api/records/3693686/access/grants",
+    "access_users": "https://zenodo.org/api/records/3693686/access/users",
+    "access_request": "https://zenodo.org/api/records/3693686/access/request",
+    "access": "https://zenodo.org/api/records/3693686/access",
+    "communities": "https://zenodo.org/api/records/3693686/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/3693686/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/3693686/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/3693686/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/3693686/quota-increase",
+    "requests": "https://zenodo.org/api/records/3693686/requests"
+  },
+  "updated": "2020-03-03T10:18:15.841939+00:00",
+  "recid": "3693686",
+  "revision": 3,
+  "files": [
+    {
+      "id": "304f79ed-8eb2-4715-9259-51b3987fd3de",
+      "key": "UnifiedBugDataset-1.2.zip",
+      "size": 1014131877,
+      "checksum": "md5:d7e7783fc365001003addac9ecb5e60d",
+      "links": {
+        "self": "https://zenodo.org/api/records/3693686/files/UnifiedBugDataset-1.2.zip/content"
+      }
+    }
+  ],
+  "swh": {},
+  "owners": [
+    {
+      "id": "93036"
+    }
+  ],
+  "status": "published",
+  "stats": {
+    "downloads": 756,
+    "unique_downloads": 561,
+    "views": 2651,
+    "unique_views": 2468,
+    "version_downloads": 752,
+    "version_unique_downloads": 558,
+    "version_unique_views": 2456,
+    "version_views": 2638
+  },
+  "state": "done",
+  "submitted": true
+}

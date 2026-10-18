@@ -1,0 +1,78 @@
+{
+  "features": [
+    "wmc",
+    "dit",
+    "noc",
+    "cbo",
+    "rfc",
+    "lcom",
+    "ca",
+    "ce",
+    "npm",
+    "lcom3",
+    "loc",
+    "dam",
+    "moa",
+    "mfa",
+    "cam",
+    "ic",
+    "cbm",
+    "amc",
+    "max_cc",
+    "avg_cc"
+  ],
+  "ck_features": [
+    "wmc",
+    "dit",
+    "noc",
+    "cbo",
+    "rfc",
+    "lcom"
+  ],
+  "seed": 42,
+  "threshold": 0.5,
+  "validation_vectors_purged": 11,
+  "test_vectors_purged": 31,
+  "splits": {
+    "train": {
+      "rows": 1679,
+      "defective": 458,
+      "non_defective": 1221,
+      "projects": [
+        "ant-1.7",
+        "jedit-4.3",
+        "poi-3.0"
+      ]
+    },
+    "validation": {
+      "rows": 341,
+      "defective": 39,
+      "non_defective": 302,
+      "projects": [
+        "ivy-2.0"
+      ]
+    },
+    "test": {
+      "rows": 934,
+      "defective": 187,
+      "non_defective": 747,
+      "projects": [
+        "camel-1.6"
+      ]
+    }
+  },
+  "selected_full_model": "XGB_all20",
+  "training_class_weight_ratio": 2.665938864628821,
+  "raw_total": 2996,
+  "retained_total": 2954,
+  "data_sha256": {
+    "ant-1.7": "1826b8e008654bddc9776247784200b9e431aa4ef4d70ef8b751d9a625f098f8",
+    "jedit-4.3": "dcabd41507f6458257376c7fe67a8a97ff6b11e1c739c0b55c78e00c3926ccc0",
+    "poi-3.0": "ef54d99385374fb5999f13fb27e7afdacf1971b0a2b856966c390426e75807af",
+    "ivy-2.0": "d0c1b20820468a0f3da647ef1d098fcd1d0080595d8e3173151e8504b44ce4cc",
+    "camel-1.6": "358ef9bb9a0ddf091100b7dec838b92821bb13ae967670c6bd47f8da6dff5138"
+  },
+  "script_sha256": "fbd585df6f57db4822d3e144e98d78d19c7abb2b34934a2871ff051463b9d0b4",
+  "checks_passed": 7,
+  "started_protocol": "fixed pilot, no tuning or post-test refitting"
+}

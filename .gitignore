@@ -1,0 +1,21 @@
+# Local environments and caches
+**/.venv/
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Internal document rendering and preparation files
+.work/
+
+# Repeated local runs; the original research outputs are versioned
+Assignment3_Practical/outputs_demo/
+Assignment3_Practical/outputs_repeat/
+
+# Credentials and editor or operating system temporary files
+.env
+.env.*
+!.env.example
+~$*
+.DS_Store
+Thumbs.db
+*.tmp

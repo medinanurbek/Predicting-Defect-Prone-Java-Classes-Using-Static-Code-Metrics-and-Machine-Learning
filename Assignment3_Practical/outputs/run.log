@@ -1,0 +1,25 @@
+train: n=1679, positive=458, projects=['ant-1.7', 'jedit-4.3', 'poi-3.0']
+validation: n=341, positive=39, projects=['ivy-2.0']
+test: n=934, positive=187, projects=['camel-1.6']
+Dummy_all20 validation AP=0.114370 F1=0.000000
+LR_all20 validation AP=0.385275 F1=0.375000
+RF_all20 validation AP=0.405682 F1=0.432432
+XGB_all20 validation AP=0.421253 F1=0.417266
+LR_CK6 validation AP=0.415262 F1=0.367089
+RF_CK6 validation AP=0.282035 F1=0.408163
+XGB_CK6 validation AP=0.268280 F1=0.405229
+Selected by validation average precision, before test evaluation: XGB_all20
+Dummy_all20 test AP=0.200214 F1=0.000000 FN=187
+LR_all20 test AP=0.229093 F1=0.303419 FN=116
+RF_all20 test AP=0.264389 F1=0.150628 FN=169
+XGB_all20 test AP=0.258197 F1=0.301587 FN=130
+LR_CK6 test AP=0.295488 F1=0.321513 FN=119
+RF_CK6 test AP=0.231372 F1=0.226300 FN=150
+XGB_CK6 test AP=0.241929 F1=0.316258 FN=116
+PASS train/validation: disjoint projects, class IDs and exact feature vectors
+PASS train/test: disjoint projects, class IDs and exact feature vectors
+PASS validation/test: disjoint projects, class IDs and exact feature vectors
+PASS all raw CSV SHA256 checks and ZIP CRC verification at download
+PASS fitted imputation medians equal training medians for all seven configurations
+PASS LR scaling means equal training-only imputed means
+PASS test metrics recomputed from saved prediction records and confusion-matrix totals

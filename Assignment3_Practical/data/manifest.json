@@ -1,0 +1,42 @@
+{
+  "record_doi": "10.5281/zenodo.3693686",
+  "version": "1.2",
+  "archive_url": "https://zenodo.org/api/records/3693686/files/UnifiedBugDataset-1.2.zip/content",
+  "archive_size_bytes": 1014131877,
+  "record_license": {
+    "id": "cc-by-4.0"
+  },
+  "retrieved_utc": "2026-10-18T15:43:21.329217+00:00",
+  "files": [
+    {
+      "id": "ant-1.7",
+      "member": "UnifiedBugDataset-1.2/PROMISE/orig/defect/ck/ant/ant-1.7/ant-1.7.csv",
+      "bytes": 98561,
+      "sha256": "1826b8e008654bddc9776247784200b9e431aa4ef4d70ef8b751d9a625f098f8"
+    },
+    {
+      "id": "jedit-4.3",
+      "member": "UnifiedBugDataset-1.2/PROMISE/orig/defect/ck/jedit/jedit-4.3.csv",
+      "bytes": 59485,
+      "sha256": "dcabd41507f6458257376c7fe67a8a97ff6b11e1c739c0b55c78e00c3926ccc0"
+    },
+    {
+      "id": "poi-3.0",
+      "member": "UnifiedBugDataset-1.2/PROMISE/orig/defect/ck/poi/poi-3.0/poi-3.0.csv",
+      "bytes": 55817,
+      "sha256": "ef54d99385374fb5999f13fb27e7afdacf1971b0a2b856966c390426e75807af"
+    },
+    {
+      "id": "ivy-2.0",
+      "member": "UnifiedBugDataset-1.2/PROMISE/orig/defect/ck/ivy/ivy-2.0.csv",
+      "bytes": 43184,
+      "sha256": "d0c1b20820468a0f3da647ef1d098fcd1d0080595d8e3173151e8504b44ce4cc"
+    },
+    {
+      "id": "camel-1.6",
+      "member": "UnifiedBugDataset-1.2/PROMISE/orig/defect/ck/camel/camel-1.6/camel-1.6.csv",
+      "bytes": 122104,
+      "sha256": "358ef9bb9a0ddf091100b7dec838b92821bb13ae967670c6bd47f8da6dff5138"
+    }
+  ]
+}
