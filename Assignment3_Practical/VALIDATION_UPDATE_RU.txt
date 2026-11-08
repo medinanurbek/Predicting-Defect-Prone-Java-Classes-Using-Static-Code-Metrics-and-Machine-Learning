@@ -32,6 +32,7 @@ Synapse — дополнительный проект того же истори
 окружении; это не три независимых исследования.
 
 КАК ЗАПУСКАТЬ
+START_ASSIGNMENT4.cmd — полный Assignment 4: benchmark, Synapse, сводки и проверки.
 START_DEMO.cmd — быстрый повтор зафиксированного Synapse-теста.
 START_BENCHMARK.cmd — полный повтор пяти проектов и трёх seed; дольше.
 START_PILOT.cmd — старый эксперимент Assignment 3.
