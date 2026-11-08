@@ -10,6 +10,9 @@
 # Repeated local runs; the original research outputs are versioned
 Assignment3_Practical/outputs_demo/
 Assignment3_Practical/outputs_repeat/
+Assignment3_Practical/outputs_benchmark_reproduced_*/
+Assignment3_Practical/outputs_holdout_demo_*/
+Assignment3_Practical/outputs_assignment4_*/
 
 # Credentials and editor or operating system temporary files
 .env

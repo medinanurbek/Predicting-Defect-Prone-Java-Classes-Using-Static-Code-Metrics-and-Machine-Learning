@@ -1,0 +1,14 @@
+{
+  "checked_utc": "2026-11-08T08:48:16.819322+00:00",
+  "scope": "Package-level verification by the assistant; no claim of personal execution by named students.",
+  "verification_script_sha256": "8e02752cdae2b15b7e38d39a1f39e1425723cccb7cccffdb870734d8186168a3",
+  "checks": [
+    "PASS source inventory, six raw hashes, labels and source-to-analysis mapping (3252 source rows).",
+    "PASS all 20 feature distributions independently recomputed for five development projects.",
+    "PASS all 210 outer metric rows, both baselines and equal-project means/ranges/SD independently recalculated.",
+    "PASS eight retained-population Synapse metric rows, including both baselines, independently recalculated.",
+    "PASS frozen selection chronology, recorded source snapshots and 1,080 recorded inner candidate scores.",
+    "PASS report dictionary covers all 25 analysis fields; metadata and labels excluded from predictors."
+  ],
+  "limitations": "No model refitting in this audit; labels checked against published files, not against underlying bug reports."
+}

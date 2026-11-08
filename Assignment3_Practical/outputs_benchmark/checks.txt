@@ -1,0 +1,7 @@
+PASS SHA256: all five original source files match their manifests.
+PASS project separation and exact-vector exclusion in every inner and outer split.
+PASS training-only imputation and scaling checks in 1170 fitted pipelines.
+PASS model and threshold selection uses only inner validation predictions.
+PASS three seeds and five outer projects have complete primary and secondary scores.
+PASS additional holdout was not acquired or loaded before final selection.
+PASS all primary and secondary model metrics recomputed from saved predictions.

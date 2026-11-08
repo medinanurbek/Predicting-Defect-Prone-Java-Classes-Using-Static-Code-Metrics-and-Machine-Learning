@@ -1,0 +1,17 @@
+{
+  "frozen_utc": "2026-11-08T07:53:56.346947+00:00",
+  "condition": "LR_CK6",
+  "parameter": 0.1,
+  "mean_inner_project_ap": 0.4482808839267477,
+  "secondary_threshold": 0.4,
+  "secondary_threshold_inner_macro_f1": 0.3943681450755566,
+  "primary_threshold": 0.5,
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "selection_data": "inner validation only; no Synapse data and no outer-test score used for final choice",
+  "holdout_project": "synapse-1.2",
+  "protocol_sha256": "40803d17e6f2246ff054bf49ce42c117bbae58f6d4a2b2bb449a2b646784fb72"
+}

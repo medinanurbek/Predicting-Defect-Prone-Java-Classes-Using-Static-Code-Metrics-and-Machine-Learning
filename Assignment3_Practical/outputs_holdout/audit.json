@@ -1,0 +1,54 @@
+{
+  "source": {
+    "project": "synapse-1.2",
+    "source_rows": 256,
+    "invalid_label_or_id": 0,
+    "conflicting_id_rows": 0,
+    "duplicate_id_rows": 0,
+    "entirely_missing_rows": 0,
+    "negative_cells": 0,
+    "nonfinite_cells": 0,
+    "missing_cells_retained": 0,
+    "clean_rows": 256,
+    "positive": 86,
+    "negative": 170,
+    "positive_rate": 0.3359375,
+    "sha256": "7452bcee4e9c6ece7602682145b59e48ea327eb0310d71bc972e77e10f72071e"
+  },
+  "test_before_overlap_removal": 256,
+  "test_after_overlap_removal": 243,
+  "excluded_matching_vectors": 13,
+  "development_training_rows": 2996,
+  "selection": {
+    "frozen_utc": "2026-11-08T07:53:56.346947+00:00",
+    "condition": "LR_CK6",
+    "parameter": 0.1,
+    "mean_inner_project_ap": 0.4482808839267477,
+    "secondary_threshold": 0.4,
+    "secondary_threshold_inner_macro_f1": 0.3943681450755566,
+    "primary_threshold": 0.5,
+    "seeds": [
+      42,
+      43,
+      44
+    ],
+    "selection_data": "inner validation only; no Synapse data and no outer-test score used for final choice",
+    "holdout_project": "synapse-1.2",
+    "protocol_sha256": "40803d17e6f2246ff054bf49ce42c117bbae58f6d4a2b2bb449a2b646784fb72"
+  },
+  "acquisition": {
+    "project": "synapse-1.2",
+    "record_doi": "10.5281/zenodo.3693686",
+    "archive_url": "https://zenodo.org/api/records/3693686/files/UnifiedBugDataset-1.2.zip/content",
+    "member": "UnifiedBugDataset-1.2/PROMISE/orig/defect/ck/synapse/synapse-1.2.csv",
+    "acquired_utc": "2026-11-08T07:54:44.081848+00:00",
+    "bytes": 34230,
+    "sha256": "7452bcee4e9c6ece7602682145b59e48ea327eb0310d71bc972e77e10f72071e",
+    "archive_crc_checked": true,
+    "selection_sha256_before_acquisition": "0809c12195b78eb41c764836df9822a270d4aa78bc4c992c6c9af6b156903971",
+    "selection_frozen_utc": "2026-11-08T07:53:56.346947+00:00"
+  },
+  "evaluation_utc": "2026-11-08T07:54:44.355024+00:00",
+  "evaluation_script_sha256": "dd455725f0e91aa184aaa08b69b25a234e7fca68fc11fa6df4cafd26fc56f118",
+  "limitation": "Additional untouched project from the same historical archive; not an independent modern dataset family."
+}

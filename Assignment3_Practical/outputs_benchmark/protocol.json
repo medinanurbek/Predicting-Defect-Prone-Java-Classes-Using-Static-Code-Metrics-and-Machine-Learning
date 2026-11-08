@@ -1,0 +1,124 @@
+{
+  "created_utc": "2026-11-08T07:48:39.008257+00:00",
+  "design": "nested leave-one-project-out",
+  "development_projects": [
+    "ant-1.7",
+    "camel-1.6",
+    "ivy-2.0",
+    "jedit-4.3",
+    "poi-3.0"
+  ],
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "primary_threshold": 0.5,
+  "selection": "equal-project mean inner validation average precision",
+  "secondary_threshold": "maximise equal-project inner validation F1 on grid 0.05 to 0.95 by 0.05; ties closest to 0.5",
+  "parameter_grid": {
+    "LR": [
+      1.0,
+      0.1,
+      10.0
+    ],
+    "RF": [
+      2,
+      1,
+      5
+    ],
+    "XGB": [
+      3,
+      2,
+      5
+    ]
+  },
+  "conditions": [
+    "LR_all20",
+    "RF_all20",
+    "XGB_all20",
+    "LR_CK6",
+    "RF_CK6",
+    "XGB_CK6"
+  ],
+  "features": [
+    "wmc",
+    "dit",
+    "noc",
+    "cbo",
+    "rfc",
+    "lcom",
+    "ca",
+    "ce",
+    "npm",
+    "lcom3",
+    "loc",
+    "dam",
+    "moa",
+    "mfa",
+    "cam",
+    "ic",
+    "cbm",
+    "amc",
+    "max_cc",
+    "avg_cc"
+  ],
+  "ck_features": [
+    "wmc",
+    "dit",
+    "noc",
+    "cbo",
+    "rfc",
+    "lcom"
+  ],
+  "single_and_joint_permutation_groups": {
+    "size_and_methods": [
+      "wmc",
+      "npm",
+      "loc",
+      "amc"
+    ],
+    "coupling_and_response": [
+      "cbo",
+      "rfc",
+      "ca",
+      "ce",
+      "ic",
+      "cbm"
+    ],
+    "inheritance": [
+      "dit",
+      "noc",
+      "mfa"
+    ],
+    "cohesion": [
+      "lcom",
+      "lcom3",
+      "cam"
+    ],
+    "cyclomatic_complexity": [
+      "max_cc",
+      "avg_cc"
+    ],
+    "access_and_aggregation": [
+      "dam",
+      "moa"
+    ]
+  },
+  "importance_seed": 42,
+  "permutation_repeats": 20,
+  "overlap_rule": "exclude evaluation vectors that exactly match its training vectors",
+  "sensitivity": "evaluate all outer test records with the same fitted model and threshold",
+  "future_holdout_project": "synapse-1.2",
+  "future_holdout_member": "UnifiedBugDataset-1.2/PROMISE/orig/defect/ck/synapse/synapse-1.2.csv",
+  "holdout_rule": "do not acquire or inspect holdout before final_selection.json is written",
+  "source_sha256": {
+    "ant-1.7": "1826b8e008654bddc9776247784200b9e431aa4ef4d70ef8b751d9a625f098f8",
+    "jedit-4.3": "dcabd41507f6458257376c7fe67a8a97ff6b11e1c739c0b55c78e00c3926ccc0",
+    "poi-3.0": "ef54d99385374fb5999f13fb27e7afdacf1971b0a2b856966c390426e75807af",
+    "ivy-2.0": "d0c1b20820468a0f3da647ef1d098fcd1d0080595d8e3173151e8504b44ce4cc",
+    "camel-1.6": "358ef9bb9a0ddf091100b7dec838b92821bb13ae967670c6bd47f8da6dff5138"
+  },
+  "script_sha256": "f6322630057671444633b9add10a5678cc5f2ffbef6729d1da94438c1e848ba4",
+  "utils_sha256": "4d05fac37a6cd943341c6121cf810e6bbf79950b515d078e80058910e73c4daa"
+}

@@ -1,0 +1,8 @@
+{
+  "completed_utc": "2026-11-08T07:53:58.198519+00:00",
+  "outer_project_seed_contexts": 15,
+  "outer_metric_rows": 210,
+  "inner_cv_fits": 1080,
+  "protocol_sha256": "40803d17e6f2246ff054bf49ce42c117bbae58f6d4a2b2bb449a2b646784fb72",
+  "final_selection_sha256": "0809c12195b78eb41c764836df9822a270d4aa78bc4c992c6c9af6b156903971"
+}

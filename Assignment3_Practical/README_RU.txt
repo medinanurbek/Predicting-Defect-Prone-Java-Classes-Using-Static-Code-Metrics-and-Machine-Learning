@@ -1,3 +1,8 @@
+ИСТОРИЧЕСКОЕ ОПИСАНИЕ ПИЛОТА
+Обновление от 8 ноября 2026: расширенный benchmark и Synapse-тест уже выполнены.
+Текущие результаты и запуск описаны в VALIDATION_UPDATE_RU.txt.
+Упоминания будущего benchmark ниже относятся к первоначальному плану Assignment 3.
+
 Assignment 3 — практическая часть и подготовка к защите
 
 Авторы: Kabysheva Zukhra, Nurbek Medina, Maksatova Akniyet, Nauryzbay Tomiris

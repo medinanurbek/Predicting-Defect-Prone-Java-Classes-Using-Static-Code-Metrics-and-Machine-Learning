@@ -1,0 +1,12 @@
+{
+  "project": "synapse-1.2",
+  "record_doi": "10.5281/zenodo.3693686",
+  "archive_url": "https://zenodo.org/api/records/3693686/files/UnifiedBugDataset-1.2.zip/content",
+  "member": "UnifiedBugDataset-1.2/PROMISE/orig/defect/ck/synapse/synapse-1.2.csv",
+  "acquired_utc": "2026-11-08T07:54:44.081848+00:00",
+  "bytes": 34230,
+  "sha256": "7452bcee4e9c6ece7602682145b59e48ea327eb0310d71bc972e77e10f72071e",
+  "archive_crc_checked": true,
+  "selection_sha256_before_acquisition": "0809c12195b78eb41c764836df9822a270d4aa78bc4c992c6c9af6b156903971",
+  "selection_frozen_utc": "2026-11-08T07:53:56.346947+00:00"
+}

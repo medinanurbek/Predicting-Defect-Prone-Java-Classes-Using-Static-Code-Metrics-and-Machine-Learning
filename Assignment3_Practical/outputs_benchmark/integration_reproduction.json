@@ -1,0 +1,21 @@
+{
+  "completed_utc": "2026-11-08T08:48:35.448275+00:00",
+  "status": "PASS",
+  "launcher": "START_ASSIGNMENT4.cmd / run_research.ps1 -Mode All",
+  "comparison": "Full end-to-end rerun matches archived development and Synapse results.",
+  "matching_rows": {
+    "outputs_benchmark/inner_cv_scores.csv": 1080,
+    "outputs_benchmark/outer_metrics.csv": 210,
+    "outputs_benchmark/macro_summary.csv": 14,
+    "outputs_benchmark/importance_summary.csv": 26,
+    "outputs_holdout/holdout_metrics.csv": 14
+  },
+  "source_run_manifest": {
+    "completed_utc": "2026-11-08T08:48:17.1573965Z",
+    "benchmark_directory": "outputs_assignment4_20261108_134422_959\\benchmark",
+    "holdout_directory": "outputs_assignment4_20261108_134422_959\\holdout",
+    "holdout_selection_source": "outputs_benchmark/final_selection.json",
+    "development_choice_matches_original": true,
+    "interpretation": "Reproduction of the released study. The Synapse run uses the original frozen configuration; it is not a new untouched test."
+  }
+}

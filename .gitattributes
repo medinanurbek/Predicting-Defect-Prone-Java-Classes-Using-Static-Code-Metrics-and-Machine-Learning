@@ -9,5 +9,11 @@
 # Raw archived CSV bytes must retain their recorded SHA256 values.
 Assignment3_Practical/data/*.csv -text -whitespace
 Assignment3_Practical/data/UPSTREAM_README.txt -text -whitespace
+Assignment3_Practical/data_holdout/*.csv -text -whitespace
+# Preserve byte-level links in the frozen experiment provenance.
+Assignment3_Practical/outputs_benchmark/*.json -text whitespace=cr-at-eol
+Assignment3_Practical/outputs_benchmark/executed_*.py -text whitespace=cr-at-eol
+Assignment3_Practical/outputs_holdout/*.json -text whitespace=cr-at-eol
+Assignment3_Practical/outputs_holdout/executed_*.py -text whitespace=cr-at-eol
 *.docx binary
 *.zip binary

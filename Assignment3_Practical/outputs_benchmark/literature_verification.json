@@ -1,0 +1,16 @@
+{
+  "checked_utc": "2026-11-08T08:33:48.358658+00:00",
+  "checked_by": "Assistant; no personal student sign-off inferred",
+  "status": "Completed source comparison",
+  "sources": [
+    {
+      "url": "https://thesai.org/Downloads/Volume13No5/Paper_101-Using_Machine_Learning_Techniques_to_Predict_Bugs_in_Classes.pdf",
+      "checked": "Eight classifiers; 47,618 classes; 60-to-25 features; random ten-fold evaluation; LR AUC/F1 about 0.77."
+    },
+    {
+      "url": "https://link.springer.com/article/10.1007/s11219-020-09515-0",
+      "checked": "Original/recalculated metric differences and within-project, merged and cross-project settings."
+    }
+  ],
+  "limitations_review": "Historical projects, label uncertainty, matching-vector exclusion, correlation, inspected development outcomes and shared-archive holdout are retained as limitations."
+}

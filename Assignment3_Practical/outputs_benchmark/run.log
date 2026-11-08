@@ -1,0 +1,33 @@
+Protocol frozen before fitting: 5 projects, 2996 records, three seeds.
+The additional Synapse project is not loaded by this program.
+Outer 1/15: seed=42, test=ant-1.7, train=2251, retained test=724
+Completed 1/15; validation choices fixed before scoring each outer test.
+Outer 2/15: seed=42, test=camel-1.6, train=2031, retained test=934
+Completed 2/15; validation choices fixed before scoring each outer test.
+Outer 3/15: seed=42, test=ivy-2.0, train=2644, retained test=336
+Completed 3/15; validation choices fixed before scoring each outer test.
+Outer 4/15: seed=42, test=jedit-4.3, train=2504, retained test=479
+Completed 4/15; validation choices fixed before scoring each outer test.
+Outer 5/15: seed=42, test=poi-3.0, train=2554, retained test=434
+Completed 5/15; validation choices fixed before scoring each outer test.
+Outer 6/15: seed=43, test=ant-1.7, train=2251, retained test=724
+Completed 6/15; validation choices fixed before scoring each outer test.
+Outer 7/15: seed=43, test=camel-1.6, train=2031, retained test=934
+Completed 7/15; validation choices fixed before scoring each outer test.
+Outer 8/15: seed=43, test=ivy-2.0, train=2644, retained test=336
+Completed 8/15; validation choices fixed before scoring each outer test.
+Outer 9/15: seed=43, test=jedit-4.3, train=2504, retained test=479
+Completed 9/15; validation choices fixed before scoring each outer test.
+Outer 10/15: seed=43, test=poi-3.0, train=2554, retained test=434
+Completed 10/15; validation choices fixed before scoring each outer test.
+Outer 11/15: seed=44, test=ant-1.7, train=2251, retained test=724
+Completed 11/15; validation choices fixed before scoring each outer test.
+Outer 12/15: seed=44, test=camel-1.6, train=2031, retained test=934
+Completed 12/15; validation choices fixed before scoring each outer test.
+Outer 13/15: seed=44, test=ivy-2.0, train=2644, retained test=336
+Completed 13/15; validation choices fixed before scoring each outer test.
+Outer 14/15: seed=44, test=jedit-4.3, train=2504, retained test=479
+Completed 14/15; validation choices fixed before scoring each outer test.
+Outer 15/15: seed=44, test=poi-3.0, train=2554, retained test=434
+Completed 15/15; validation choices fixed before scoring each outer test.
+COMPLETE: 15 outer contexts; 1080 inner fits; final holdout choice=LR_CK6, parameter=0.1, threshold=0.40

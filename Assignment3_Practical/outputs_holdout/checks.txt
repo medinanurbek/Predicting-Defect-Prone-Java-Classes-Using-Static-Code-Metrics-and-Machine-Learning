@@ -1,0 +1,7 @@
+PASS selection and protocol hashes verified before holdout acquisition.
+PASS original development checksums unchanged.
+PASS raw holdout archive CRC and SHA256 recorded.
+PASS project and exact-vector separation.
+PASS no holdout data used to select model, parameters or threshold.
+PASS training-only preprocessing for every seed.
+PASS metrics recomputed from saved prediction records.

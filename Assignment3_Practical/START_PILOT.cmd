@@ -1,0 +1,7 @@
+@echo off
+setlocal
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File "%~dp0run_demo.ps1"
+set "RMT_EXIT_CODE=%ERRORLEVEL%"
+echo.
+pause
+exit /b %RMT_EXIT_CODE%
