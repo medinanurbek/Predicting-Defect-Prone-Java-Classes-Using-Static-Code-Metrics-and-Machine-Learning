@@ -6,7 +6,7 @@ Research Methods and Tools project at Astana IT University, group SE-2409.
 
 ## Final examination paper
 
-The final paper is `output/Final_Paper_Kabysheva_Nurbek_Maksatova_Nauryzbay.docx`: five pages in the supplied conference template, with 20 IEEE-style references, two figures and an exploratory statistical extension. Four email fields remain for author completion. Presentation creation was deferred by the team.
+The final paper is `output/Final_Paper_Kabysheva_Nurbek_Maksatova_Nauryzbay.docx`: the supplied conference template, with 22 IEEE-style references (13 from 2020–2026), two figures and an exploratory statistical extension. The verified page count is recorded in `Final_Paper/final_preparation_manifest.json`. Four email fields remain for author completion. Presentation creation was deferred by the team.
 
 `Final_Paper/` contains the executed two-sided Wilcoxon/Holm analysis, figure code and reference/indexing evidence. All six adjusted p values are 0.375; no significant baseline superiority is established. These tests were added after inspecting the earlier results and are explicitly exploratory. The original benchmark and Synapse evidence remain intact.
 

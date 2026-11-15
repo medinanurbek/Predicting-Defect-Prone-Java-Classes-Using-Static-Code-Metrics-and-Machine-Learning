@@ -12,6 +12,8 @@ def rows(p):
 def read(p):return json.loads(p.read_text(encoding='utf-8'))
 def text(element):return ''.join(x.text or '' for x in element.findall('.//w:t',NS))
 def main():
+    refs=read(ROOT/'Final_Paper/references/verified_references.json')
+    reference_count=len(refs)
     report=ROOT/'output/Final_Paper_Kabysheva_Nurbek_Maksatova_Nauryzbay.docx'
     with ZipFile(report) as z:
         body=ET.fromstring(z.read('word/document.xml'))
@@ -27,21 +29,23 @@ def main():
         ref_start=paragraphs.index('References')
         reference_lines=[p for p in paragraphs[ref_start+1:] if re.match(r'^\[\d+\]',p)]
         numbers=[int(re.match(r'^\[(\d+)\]',p).group(1)) for p in reference_lines]
-        assert numbers==list(range(1,21))
+        assert reference_count>=20 and numbers==list(range(1,reference_count+1))
         used=[]
         for number in map(int,re.findall(r'\[(\d+)\]',' '.join(paragraphs[:ref_start]))):
             if number not in used:used.append(number)
-        assert used==list(range(1,21)),'First-citation order or coverage'
+        assert used==list(range(1,reference_count+1)),'First-citation order or coverage'
         assert sum('TABLE '+n+'.' in p for p in paragraphs for n in ['I','II','III','IV'])==4
         assert sum(p.startswith('Fig. ') for p in paragraphs)==2
-    print('PASS article structure: English text, four email fields, 20 ordered/cited references, four tables and two figures.')
+    print(f'PASS article structure: English text, four email fields, {reference_count} ordered/cited references, four tables and two figures.')
     index=read(ROOT/'Final_Paper/references/indexing_evidence.json')
-    refs=read(ROOT/'Final_Paper/references/verified_references.json')
-    assert len(refs)==20 and index['conservatively_counted_indexed_journal_references']==6
+    indexed=sum(r['counted_for_indexing_minimum'] for r in refs)
+    assert index['reference_count']==reference_count and index['conservatively_counted_indexed_journal_references']==indexed
     assert index['fraction']>=.30
     assert all(r.get('url') and r.get('metadata_verification') for r in refs)
-    assert len([r for r in refs if r['counted_for_indexing_minimum']])==6
-    print('PASS bibliography: 20 verified records and six conservatively counted journal-indexing items.')
+    assert abs(index['fraction']-indexed/reference_count)<1e-12
+    recent=sum(2020<=r['year']<=2026 for r in refs)
+    assert recent==index['references_2020_to_2026'] and recent>reference_count/2
+    print(f'PASS bibliography: {reference_count} verified records, {recent} from 2020-2026, and {indexed} conservatively counted journal-indexing items.')
     project=rows(ROOT/'Assignment3_Practical/outputs_benchmark/per_project_metrics.csv')
     selected=[r for r in project if r['threshold_policy']=='fixed_0.5']
     baseline={r['test_project']:float(r['average_precision']) for r in selected if r['condition']=='Dummy'}
