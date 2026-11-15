@@ -44,7 +44,7 @@ def main():
     assert all(r.get('url') and r.get('metadata_verification') for r in refs)
     assert abs(index['fraction']-indexed/reference_count)<1e-12
     recent=sum(2020<=r['year']<=2026 for r in refs)
-    assert recent==index['references_2020_to_2026'] and recent>reference_count/2
+    assert recent==index['references_2020_to_2026']==reference_count
     print(f'PASS bibliography: {reference_count} verified records, {recent} from 2020-2026, and {indexed} conservatively counted journal-indexing items.')
     project=rows(ROOT/'Assignment3_Practical/outputs_benchmark/per_project_metrics.csv')
     selected=[r for r in project if r['threshold_policy']=='fixed_0.5']

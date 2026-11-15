@@ -1,72 +1,60 @@
 {
   "checked_date": "2026-11-15",
   "reference_count": 22,
-  "conservatively_counted_indexed_journal_references": 10,
-  "fraction": 0.45454545454545453,
+  "conservatively_counted_indexed_journal_references": 8,
+  "fraction": 0.36363636363636365,
   "minimum_required": 0.3,
   "basis": "Publisher journal pages explicitly list Scopus and/or Science Citation Index Expanded. Count is conservative; IEEE and JMLR items are not needed for the minimum.",
   "scope": "Journal-level publisher evidence, not an exported individual Scopus/WoS record.",
-  "references_2020_to_2026": 13,
+  "references_2020_to_2026": 22,
   "items": [
     {
-      "number": 3,
-      "key": "audit",
-      "journal": "Empirical Software Engineering",
-      "publisher_indexing_url": "https://link.springer.com/journal/10664"
-    },
-    {
-      "number": 4,
-      "key": "mhcpdp",
-      "journal": "Software Quality Journal",
-      "publisher_indexing_url": "https://link.springer.com/journal/11219"
-    },
-    {
-      "number": 5,
-      "key": "temporal",
-      "journal": "Empirical Software Engineering",
-      "publisher_indexing_url": "https://link.springer.com/journal/10664"
-    },
-    {
-      "number": 6,
-      "key": "szz",
-      "journal": "Empirical Software Engineering",
-      "publisher_indexing_url": "https://link.springer.com/journal/10664"
-    },
-    {
-      "number": 7,
+      "number": 1,
       "key": "ferenc",
       "journal": "Software Quality Journal",
       "publisher_indexing_url": "https://link.springer.com/journal/11219"
     },
     {
-      "number": 12,
+      "number": 4,
+      "key": "audit",
+      "journal": "Empirical Software Engineering",
+      "publisher_indexing_url": "https://link.springer.com/journal/10664"
+    },
+    {
+      "number": 7,
+      "key": "szz",
+      "journal": "Empirical Software Engineering",
+      "publisher_indexing_url": "https://link.springer.com/journal/10664"
+    },
+    {
+      "number": 8,
+      "key": "mhcpdp",
+      "journal": "Software Quality Journal",
+      "publisher_indexing_url": "https://link.springer.com/journal/11219"
+    },
+    {
+      "number": 9,
+      "key": "temporal",
+      "journal": "Empirical Software Engineering",
+      "publisher_indexing_url": "https://link.springer.com/journal/10664"
+    },
+    {
+      "number": 15,
+      "key": "esteves",
+      "journal": "Automated Software Engineering",
+      "publisher_indexing_url": "https://link.springer.com/journal/10515"
+    },
+    {
+      "number": 18,
       "key": "jit",
       "journal": "Empirical Software Engineering",
       "publisher_indexing_url": "https://link.springer.com/journal/10664"
     },
     {
-      "number": 14,
+      "number": 20,
       "key": "cost",
       "journal": "Empirical Software Engineering",
       "publisher_indexing_url": "https://link.springer.com/journal/10664"
-    },
-    {
-      "number": 16,
-      "key": "breiman",
-      "journal": "Machine Learning",
-      "publisher_indexing_url": "https://link.springer.com/journal/10994"
-    },
-    {
-      "number": 20,
-      "key": "saito",
-      "journal": "PLOS ONE",
-      "publisher_indexing_url": "https://journals.plos.org/plosone/s/journal-information"
-    },
-    {
-      "number": 22,
-      "key": "strobl",
-      "journal": "BMC Bioinformatics",
-      "publisher_indexing_url": "https://link.springer.com/journal/12859"
     }
   ]
 }

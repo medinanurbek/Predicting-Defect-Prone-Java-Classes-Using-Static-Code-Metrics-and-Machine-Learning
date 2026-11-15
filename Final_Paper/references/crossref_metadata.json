@@ -1,167 +1,4 @@
 {
-  "ck": {
-    "status": "verified Crossref metadata",
-    "doi": "10.1109/32.295895",
-    "metadata_url": "https://api.crossref.org/works/10.1109%2F32.295895",
-    "data": {
-      "issue": "6",
-      "published-print": {
-        "date-parts": [
-          [
-            1994,
-            6
-          ]
-        ]
-      },
-      "DOI": "10.1109/32.295895",
-      "type": "journal-article",
-      "page": "476-493",
-      "title": [
-        "A metrics suite for object oriented design"
-      ],
-      "volume": "20",
-      "author": [
-        {
-          "given": "S.R.",
-          "family": "Chidamber",
-          "sequence": "first",
-          "affiliation": [
-            {
-              "name": "MIT, Cambridge, MA, USA"
-            }
-          ],
-          "role": [
-            {
-              "vocabulary": "crossref",
-              "role": "author"
-            }
-          ]
-        },
-        {
-          "given": "C.F.",
-          "family": "Kemerer",
-          "sequence": "additional",
-          "affiliation": [
-            {
-              "name": "MIT, Cambridge, MA, USA"
-            }
-          ],
-          "role": [
-            {
-              "vocabulary": "crossref",
-              "role": "author"
-            }
-          ]
-        }
-      ],
-      "container-title": [
-        "IEEE Transactions on Software Engineering"
-      ],
-      "URL": "https://doi.org/10.1109/32.295895",
-      "published": {
-        "date-parts": [
-          [
-            1994,
-            6
-          ]
-        ]
-      }
-    }
-  },
-  "basili": {
-    "status": "verified Crossref metadata",
-    "doi": "10.1109/32.544352",
-    "metadata_url": "https://api.crossref.org/works/10.1109%2F32.544352",
-    "data": {
-      "issue": "10",
-      "published-print": {
-        "date-parts": [
-          [
-            1996,
-            10
-          ]
-        ]
-      },
-      "DOI": "10.1109/32.544352",
-      "type": "journal-article",
-      "page": "751-761",
-      "title": [
-        "A validation of object-oriented design metrics as quality indicators"
-      ],
-      "volume": "22",
-      "author": [
-        {
-          "given": "V.R.",
-          "family": "Basili",
-          "sequence": "first",
-          "affiliation": [
-            {
-              "name": "University of Maryland",
-              "place": [
-                "College Park, MD, USA"
-              ]
-            }
-          ],
-          "role": [
-            {
-              "vocabulary": "crossref",
-              "role": "author"
-            }
-          ]
-        },
-        {
-          "given": "L.C.",
-          "family": "Briand",
-          "sequence": "additional",
-          "affiliation": [
-            {
-              "name": "Fraunhofer",
-              "place": [
-                "Kaiserslautern, Germany"
-              ]
-            }
-          ],
-          "role": [
-            {
-              "vocabulary": "crossref",
-              "role": "author"
-            }
-          ]
-        },
-        {
-          "given": "W.L.",
-          "family": "Melo",
-          "sequence": "additional",
-          "affiliation": [
-            {
-              "name": "Centre de Recherche informatique de Montreal, Inc.",
-              "place": [
-                "Montreal, QUE, Canada"
-              ]
-            }
-          ],
-          "role": [
-            {
-              "vocabulary": "crossref",
-              "role": "author"
-            }
-          ]
-        }
-      ],
-      "container-title": [
-        "IEEE Transactions on Software Engineering"
-      ],
-      "URL": "https://doi.org/10.1109/32.544352",
-      "published": {
-        "date-parts": [
-          [
-            1996,
-            10
-          ]
-        ]
-      }
-    }
-  },
   "ferenc": {
     "status": "verified Crossref metadata",
     "doi": "10.1007/s11219-020-09515-0",
@@ -314,302 +151,6 @@
         ]
       },
       "page": "891-897"
-    }
-  },
-  "saito": {
-    "status": "verified Crossref metadata",
-    "doi": "10.1371/journal.pone.0118432",
-    "metadata_url": "https://api.crossref.org/works/10.1371%2Fjournal.pone.0118432",
-    "data": {
-      "issue": "3",
-      "DOI": "10.1371/journal.pone.0118432",
-      "type": "journal-article",
-      "page": "e0118432",
-      "title": [
-        "The Precision-Recall Plot Is More Informative than the ROC Plot When Evaluating Binary Classifiers on Imbalanced Datasets"
-      ],
-      "volume": "10",
-      "author": [
-        {
-          "given": "Takaya",
-          "family": "Saito",
-          "sequence": "first",
-          "affiliation": [],
-          "role": [
-            {
-              "vocabulary": "crossref",
-              "role": "author"
-            }
-          ]
-        },
-        {
-          "given": "Marc",
-          "family": "Rehmsmeier",
-          "sequence": "additional",
-          "affiliation": [],
-          "role": [
-            {
-              "vocabulary": "crossref",
-              "role": "author"
-            }
-          ]
-        }
-      ],
-      "published-online": {
-        "date-parts": [
-          [
-            2015,
-            3,
-            4
-          ]
-        ]
-      },
-      "container-title": [
-        "PLOS ONE"
-      ],
-      "URL": "https://doi.org/10.1371/journal.pone.0118432",
-      "published": {
-        "date-parts": [
-          [
-            2015,
-            3,
-            4
-          ]
-        ]
-      }
-    }
-  },
-  "strobl": {
-    "status": "verified Crossref metadata",
-    "doi": "10.1186/1471-2105-9-307",
-    "metadata_url": "https://api.crossref.org/works/10.1186%2F1471-2105-9-307",
-    "data": {
-      "issue": "1",
-      "published-print": {
-        "date-parts": [
-          [
-            2008,
-            12
-          ]
-        ]
-      },
-      "DOI": "10.1186/1471-2105-9-307",
-      "type": "journal-article",
-      "title": [
-        "Conditional variable importance for random forests"
-      ],
-      "volume": "9",
-      "author": [
-        {
-          "given": "Carolin",
-          "family": "Strobl",
-          "sequence": "first",
-          "affiliation": [],
-          "role": [
-            {
-              "vocabulary": "crossref",
-              "role": "author"
-            }
-          ]
-        },
-        {
-          "given": "Anne-Laure",
-          "family": "Boulesteix",
-          "sequence": "additional",
-          "affiliation": [],
-          "role": [
-            {
-              "vocabulary": "crossref",
-              "role": "author"
-            }
-          ]
-        },
-        {
-          "given": "Thomas",
-          "family": "Kneib",
-          "sequence": "additional",
-          "affiliation": [],
-          "role": [
-            {
-              "vocabulary": "crossref",
-              "role": "author"
-            }
-          ]
-        },
-        {
-          "given": "Thomas",
-          "family": "Augustin",
-          "sequence": "additional",
-          "affiliation": [],
-          "role": [
-            {
-              "vocabulary": "crossref",
-              "role": "author"
-            }
-          ]
-        },
-        {
-          "given": "Achim",
-          "family": "Zeileis",
-          "sequence": "additional",
-          "affiliation": [],
-          "role": [
-            {
-              "vocabulary": "crossref",
-              "role": "author"
-            }
-          ]
-        }
-      ],
-      "published-online": {
-        "date-parts": [
-          [
-            2008,
-            7,
-            11
-          ]
-        ]
-      },
-      "container-title": [
-        "BMC Bioinformatics"
-      ],
-      "URL": "https://doi.org/10.1186/1471-2105-9-307",
-      "published": {
-        "date-parts": [
-          [
-            2008,
-            7,
-            11
-          ]
-        ]
-      }
-    }
-  },
-  "breiman": {
-    "status": "verified Crossref metadata",
-    "doi": "10.1023/A:1010933404324",
-    "metadata_url": "https://api.crossref.org/works/10.1023%2FA%3A1010933404324",
-    "data": {
-      "issue": "1",
-      "published-print": {
-        "date-parts": [
-          [
-            2001,
-            10
-          ]
-        ]
-      },
-      "DOI": "10.1023/a:1010933404324",
-      "type": "journal-article",
-      "page": "5-32",
-      "title": [
-        "Random Forests"
-      ],
-      "volume": "45",
-      "author": [
-        {
-          "given": "Leo",
-          "family": "Breiman",
-          "sequence": "first",
-          "affiliation": [],
-          "role": [
-            {
-              "vocabulary": "crossref",
-              "role": "author"
-            }
-          ]
-        }
-      ],
-      "container-title": [
-        "Machine Learning"
-      ],
-      "URL": "https://doi.org/10.1023/a:1010933404324",
-      "published": {
-        "date-parts": [
-          [
-            2001,
-            10
-          ]
-        ]
-      }
-    }
-  },
-  "chen": {
-    "status": "verified Crossref metadata",
-    "doi": "10.1145/2939672.2939785",
-    "metadata_url": "https://api.crossref.org/works/10.1145%2F2939672.2939785",
-    "data": {
-      "published-print": {
-        "date-parts": [
-          [
-            2016,
-            8,
-            13
-          ]
-        ]
-      },
-      "DOI": "10.1145/2939672.2939785",
-      "type": "proceedings-article",
-      "page": "785-794",
-      "title": [
-        "XGBoost"
-      ],
-      "author": [
-        {
-          "given": "Tianqi",
-          "family": "Chen",
-          "sequence": "first",
-          "affiliation": [
-            {
-              "name": "University of Washington, Seattle, WA, USA"
-            }
-          ],
-          "role": [
-            {
-              "vocabulary": "crossref",
-              "role": "author"
-            }
-          ]
-        },
-        {
-          "given": "Carlos",
-          "family": "Guestrin",
-          "sequence": "additional",
-          "affiliation": [
-            {
-              "name": "University of Washington, Seattle, WA, USA"
-            }
-          ],
-          "role": [
-            {
-              "vocabulary": "crossref",
-              "role": "author"
-            }
-          ]
-        }
-      ],
-      "published-online": {
-        "date-parts": [
-          [
-            2016,
-            8,
-            13
-          ]
-        ]
-      },
-      "container-title": [
-        "Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining"
-      ],
-      "URL": "https://doi.org/10.1145/2939672.2939785",
-      "published": {
-        "date-parts": [
-          [
-            2016,
-            8,
-            13
-          ]
-        ]
-      }
     }
   },
   "anand": {
@@ -1525,6 +1066,1032 @@
         ]
       },
       "article-number": "182"
+    }
+  },
+  "matloob": {
+    "status": "verified Crossref metadata",
+    "doi": "10.1109/ACCESS.2021.3095559",
+    "metadata_url": "https://api.crossref.org/works/10.1109/ACCESS.2021.3095559",
+    "data": {
+      "published-print": {
+        "date-parts": [
+          [
+            2021
+          ]
+        ]
+      },
+      "DOI": "10.1109/access.2021.3095559",
+      "type": "journal-article",
+      "page": "98754-98771",
+      "title": [
+        "Software Defect Prediction Using Ensemble Learning: A Systematic Literature Review"
+      ],
+      "volume": "9",
+      "author": [
+        {
+          "given": "Faseeha",
+          "family": "Matloob",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Taher M.",
+          "family": "Ghazal",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Nasser",
+          "family": "Taleb",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Shabib",
+          "family": "Aftab",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Munir",
+          "family": "Ahmad",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Muhammad Adnan",
+          "family": "Khan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Sagheer",
+          "family": "Abbas",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Tariq Rahim",
+          "family": "Soomro",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "IEEE Access"
+      ],
+      "URL": "https://doi.org/10.1109/access.2021.3095559",
+      "published": {
+        "date-parts": [
+          [
+            2021
+          ]
+        ]
+      }
+    }
+  },
+  "pandey": {
+    "status": "verified Crossref metadata",
+    "doi": "10.1016/j.eswa.2021.114595",
+    "metadata_url": "https://api.crossref.org/works/10.1016/j.eswa.2021.114595",
+    "data": {
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            6
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.eswa.2021.114595",
+      "type": "journal-article",
+      "page": "114595",
+      "title": [
+        "Machine learning based methods for software fault prediction: A survey"
+      ],
+      "volume": "172",
+      "author": [
+        {
+          "given": "Sushant Kumar",
+          "family": "Pandey",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ravi Bhushan",
+          "family": "Mishra",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Anil Kumar",
+          "family": "Tripathi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Expert Systems with Applications"
+      ],
+      "URL": "https://doi.org/10.1016/j.eswa.2021.114595",
+      "published": {
+        "date-parts": [
+          [
+            2021,
+            6
+          ]
+        ]
+      },
+      "article-number": "114595"
+    }
+  },
+  "pachouly": {
+    "status": "verified Crossref metadata",
+    "doi": "10.1016/j.engappai.2022.104773",
+    "metadata_url": "https://api.crossref.org/works/10.1016/j.engappai.2022.104773",
+    "data": {
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            5
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.engappai.2022.104773",
+      "type": "journal-article",
+      "page": "104773",
+      "title": [
+        "A systematic literature review on software defect prediction using artificial intelligence: Datasets, Data Validation Methods, Approaches, and Tools"
+      ],
+      "volume": "111",
+      "author": [
+        {
+          "given": "Jalaj",
+          "family": "Pachouly",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8554-2129",
+          "authenticated-orcid": false,
+          "given": "Swati",
+          "family": "Ahirrao",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-2653-3780",
+          "authenticated-orcid": false,
+          "given": "Ketan",
+          "family": "Kotecha",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-7161-2109",
+          "authenticated-orcid": false,
+          "given": "Ganeshsree",
+          "family": "Selvachandran",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ajith",
+          "family": "Abraham",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Engineering Applications of Artificial Intelligence"
+      ],
+      "URL": "https://doi.org/10.1016/j.engappai.2022.104773",
+      "published": {
+        "date-parts": [
+          [
+            2022,
+            5
+          ]
+        ]
+      },
+      "article-number": "104773"
+    }
+  },
+  "esteves": {
+    "status": "verified Crossref metadata",
+    "doi": "10.1007/s10515-020-00277-4",
+    "metadata_url": "https://api.crossref.org/works/10.1007/s10515-020-00277-4",
+    "data": {
+      "issue": "3-4",
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            12
+          ]
+        ]
+      },
+      "DOI": "10.1007/s10515-020-00277-4",
+      "type": "journal-article",
+      "page": "369-392",
+      "title": [
+        "Understanding machine learning software defect predictions"
+      ],
+      "volume": "27",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-7571-6578",
+          "authenticated-orcid": false,
+          "given": "Geanderson",
+          "family": "Esteves",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6004-2718",
+          "authenticated-orcid": false,
+          "given": "Eduardo",
+          "family": "Figueiredo",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-9177-4954",
+          "authenticated-orcid": false,
+          "given": "Adriano",
+          "family": "Veloso",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8500-3723",
+          "authenticated-orcid": false,
+          "given": "Markos",
+          "family": "Viggiato",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7079-2010",
+          "authenticated-orcid": false,
+          "given": "Nivio",
+          "family": "Ziviani",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2020,
+            10,
+            12
+          ]
+        ]
+      },
+      "container-title": [
+        "Automated Software Engineering"
+      ],
+      "URL": "https://doi.org/10.1007/s10515-020-00277-4",
+      "published": {
+        "date-parts": [
+          [
+            2020,
+            10,
+            12
+          ]
+        ]
+      }
+    }
+  },
+  "chowdhury": {
+    "status": "verified Crossref metadata",
+    "doi": "10.1145/3640331",
+    "metadata_url": "https://api.crossref.org/works/10.1145/3640331",
+    "data": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            5,
+            31
+          ]
+        ]
+      },
+      "DOI": "10.1145/3640331",
+      "type": "journal-article",
+      "page": "1-31",
+      "title": [
+        "Method-level Bug Prediction: Problems and Promises"
+      ],
+      "volume": "33",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-2301-6104",
+          "authenticated-orcid": false,
+          "given": "Shaiful",
+          "family": "Chowdhury",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "University of Manitoba, Winnipeg, Canada"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1376-095X",
+          "authenticated-orcid": false,
+          "given": "Gias",
+          "family": "Uddin",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "York University, Toronto, Canada"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-0204-9812",
+          "authenticated-orcid": false,
+          "given": "Hadi",
+          "family": "Hemmati",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "York University, Toronto, Canada"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4213-494X",
+          "authenticated-orcid": false,
+          "given": "Reid",
+          "family": "Holmes",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of British Columbia, Vancouver, Canada"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2024,
+            4,
+            18
+          ]
+        ]
+      },
+      "container-title": [
+        "ACM Transactions on Software Engineering and Methodology"
+      ],
+      "URL": "https://doi.org/10.1145/3640331",
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            4,
+            18
+          ]
+        ]
+      },
+      "article-number": "98"
+    }
+  },
+  "tsunoda": {
+    "status": "verified Crossref metadata",
+    "doi": "10.1145/3524842.3529093",
+    "metadata_url": "https://api.crossref.org/works/10.1145/3524842.3529093",
+    "data": {
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            5,
+            23
+          ]
+        ]
+      },
+      "DOI": "10.1145/3524842.3529093",
+      "type": "proceedings-article",
+      "page": "670-681",
+      "title": [
+        "Using bandit algorithms for selecting feature reduction techniques in software defect prediction"
+      ],
+      "author": [
+        {
+          "given": "Masateru",
+          "family": "Tsunoda",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Kindai University, Higashi-osaka, Japan"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Akito",
+          "family": "Monden",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Okayama University, Okayama, Japan"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Koji",
+          "family": "Toda",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Fukuoka Institute of Tech., Fukuoka, Japan"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Amjed",
+          "family": "Tahir",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Massey University, Palmerston North, NZ"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Kwabena Ebo",
+          "family": "Bennin",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Wageningen UR, Wageningen, Netherlands"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Keitaro",
+          "family": "Nakasai",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Kumamoto College, Kirishima, Japan"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Masataka",
+          "family": "Nagura",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Nanzan University, Nagoya, Japan"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Kenichi",
+          "family": "Matsumoto",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "NAIST, Ikoma, Japan"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2022,
+            10,
+            17
+          ]
+        ]
+      },
+      "container-title": [
+        "Proceedings of the 19th International Conference on Mining Software Repositories"
+      ],
+      "URL": "https://doi.org/10.1145/3524842.3529093",
+      "published": {
+        "date-parts": [
+          [
+            2022,
+            5,
+            23
+          ]
+        ]
+      }
+    }
+  },
+  "molnar": {
+    "status": "verified Crossref metadata",
+    "doi": "10.1007/978-3-031-04083-2_4",
+    "metadata_url": "https://api.crossref.org/works/10.1007/978-3-031-04083-2_4",
+    "data": {
+      "published-print": {
+        "date-parts": [
+          [
+            2022
+          ]
+        ]
+      },
+      "DOI": "10.1007/978-3-031-04083-2_4",
+      "type": "book-chapter",
+      "page": "39-68",
+      "title": [
+        "General Pitfalls of Model-Agnostic Interpretation Methods for Machine Learning Models"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-2331-868X",
+          "authenticated-orcid": false,
+          "given": "Christoph",
+          "family": "Molnar",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-6141-4942",
+          "authenticated-orcid": false,
+          "given": "Gunnar",
+          "family": "König",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-0430-8523",
+          "authenticated-orcid": false,
+          "given": "Julia",
+          "family": "Herbinger",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1338-3293",
+          "authenticated-orcid": false,
+          "given": "Timo",
+          "family": "Freiesleben",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4324-4163",
+          "authenticated-orcid": false,
+          "given": "Susanne",
+          "family": "Dandl",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-6607-4895",
+          "authenticated-orcid": false,
+          "given": "Christian A.",
+          "family": "Scholbeck",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-5324-5966",
+          "authenticated-orcid": false,
+          "given": "Giuseppe",
+          "family": "Casalicchio",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-9787-2291",
+          "authenticated-orcid": false,
+          "given": "Moritz",
+          "family": "Grosse-Wentrup",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-6002-6980",
+          "authenticated-orcid": false,
+          "given": "Bernd",
+          "family": "Bischl",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2022,
+            4,
+            17
+          ]
+        ]
+      },
+      "container-title": [
+        "Lecture Notes in Computer Science",
+        "xxAI - Beyond Explainable AI"
+      ],
+      "URL": "https://doi.org/10.1007/978-3-031-04083-2_4",
+      "published": {
+        "date-parts": [
+          [
+            2022
+          ]
+        ]
+      },
+      "volume": "13200"
+    }
+  },
+  "yao": {
+    "status": "verified Crossref metadata",
+    "doi": "10.1016/j.infsof.2021.106664",
+    "metadata_url": "https://api.crossref.org/works/10.1016/j.infsof.2021.106664",
+    "data": {
+      "published-print": {
+        "date-parts": [
+          [
+            2021,
+            11
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.infsof.2021.106664",
+      "type": "journal-article",
+      "page": "106664",
+      "title": [
+        "The impact of using biased performance metrics on software defect prediction research"
+      ],
+      "volume": "139",
+      "author": [
+        {
+          "given": "Jingxiu",
+          "family": "Yao",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1874-6145",
+          "authenticated-orcid": false,
+          "given": "Martin",
+          "family": "Shepperd",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Information and Software Technology"
+      ],
+      "URL": "https://doi.org/10.1016/j.infsof.2021.106664",
+      "published": {
+        "date-parts": [
+          [
+            2021,
+            11
+          ]
+        ]
+      },
+      "article-number": "106664"
+    }
+  },
+  "li2025": {
+    "status": "verified Crossref metadata",
+    "doi": "10.1038/s41598-025-90832-4",
+    "metadata_url": "https://api.crossref.org/works/10.1038/s41598-025-90832-4",
+    "data": {
+      "issue": "1",
+      "DOI": "10.1038/s41598-025-90832-4",
+      "type": "journal-article",
+      "title": [
+        "Within-project and cross-project defect prediction based on model averaging"
+      ],
+      "volume": "15",
+      "author": [
+        {
+          "given": "Tong",
+          "family": "Li",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Zhong",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Peibei",
+          "family": "Shi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2025,
+            2,
+            21
+          ]
+        ]
+      },
+      "container-title": [
+        "Scientific Reports"
+      ],
+      "URL": "https://doi.org/10.1038/s41598-025-90832-4",
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            2,
+            21
+          ]
+        ]
+      },
+      "article-number": "6390"
     }
   }
 }
