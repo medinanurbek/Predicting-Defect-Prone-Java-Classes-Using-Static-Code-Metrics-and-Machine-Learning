@@ -1,0 +1,85 @@
+{
+  "executed_utc": "2026-11-15T16:41:35.265111+00:00",
+  "status": "executed",
+  "analysis_stage": "Final-paper extension after inspection of Assignment 4 results; exploratory, not preregistered.",
+  "hypothesis": "For each learned condition, H0: paired project AP differences from the prior baseline are centred on zero; H1: they are not.",
+  "method": "Two-sided exact Wilcoxon signed-rank; five seed-averaged project pairs; Holm correction over six tests; alpha 0.05.",
+  "limitations": "Convenience sample of five projects with overlapping training folds; symmetry and exchangeability assumptions and model-selection history limit inference. Seeds are not independent projects.",
+  "input_sha256_lf_normalized": "60497414154f5687ba88a45af1dac1fbc0c0788991f3ca13ba8696b5cb6bf788",
+  "input_hash_normalization": "CRLF converted to LF so the audit survives Git text normalization.",
+  "script_sha256": "c0eadb0681154c5a6fb454fd1ab66edca4fab12ea7cfd39de5077422736fae36",
+  "results": [
+    {
+      "condition": "LR_CK6",
+      "projects": 5,
+      "mean_ap_gain": 0.21161872176393812,
+      "median_ap_gain": 0.2004548286827716,
+      "min_ap_gain": 0.09649882985388619,
+      "max_ap_gain": 0.3043230847730843,
+      "wilcoxon_statistic": 0.0,
+      "p_two_sided": 0.0625,
+      "p_holm": 0.375,
+      "reject_at_005": false
+    },
+    {
+      "condition": "LR_all20",
+      "projects": 5,
+      "mean_ap_gain": 0.13176214179536075,
+      "median_ap_gain": 0.15227441812475873,
+      "min_ap_gain": 0.02640633084262861,
+      "max_ap_gain": 0.2144271258963179,
+      "wilcoxon_statistic": 0.0,
+      "p_two_sided": 0.0625,
+      "p_holm": 0.375,
+      "reject_at_005": false
+    },
+    {
+      "condition": "RF_CK6",
+      "projects": 5,
+      "mean_ap_gain": 0.1370685122963055,
+      "median_ap_gain": 0.15736374308024,
+      "min_ap_gain": 0.03455340539951801,
+      "max_ap_gain": 0.1927536368098976,
+      "wilcoxon_statistic": 0.0,
+      "p_two_sided": 0.0625,
+      "p_holm": 0.375,
+      "reject_at_005": false
+    },
+    {
+      "condition": "RF_all20",
+      "projects": 5,
+      "mean_ap_gain": 0.1524588101886492,
+      "median_ap_gain": 0.17964322726030324,
+      "min_ap_gain": 0.0406396760784709,
+      "max_ap_gain": 0.2590120220213366,
+      "wilcoxon_statistic": 0.0,
+      "p_two_sided": 0.0625,
+      "p_holm": 0.375,
+      "reject_at_005": false
+    },
+    {
+      "condition": "XGB_CK6",
+      "projects": 5,
+      "mean_ap_gain": 0.13906377089408917,
+      "median_ap_gain": 0.1655861863862371,
+      "min_ap_gain": 0.05821366864693128,
+      "max_ap_gain": 0.21637417307314444,
+      "wilcoxon_statistic": 0.0,
+      "p_two_sided": 0.0625,
+      "p_holm": 0.375,
+      "reject_at_005": false
+    },
+    {
+      "condition": "XGB_all20",
+      "projects": 5,
+      "mean_ap_gain": 0.14775770689081386,
+      "median_ap_gain": 0.16930242846824972,
+      "min_ap_gain": 0.0163842262271381,
+      "max_ap_gain": 0.2672652990514742,
+      "wilcoxon_statistic": 0.0,
+      "p_two_sided": 0.0625,
+      "p_holm": 0.375,
+      "reject_at_005": false
+    }
+  ]
+}

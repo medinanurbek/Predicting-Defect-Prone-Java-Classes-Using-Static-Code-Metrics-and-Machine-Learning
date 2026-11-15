@@ -1,0 +1,34 @@
+{
+  "paper_file": "output/Final_Paper_Kabysheva_Nurbek_Maksatova_Nauryzbay.docx",
+  "paper_sha256": "5f321c163a50716fc6fab49b73097817e392d51169578c2fa4cb5625883f44b8",
+  "verified_word_render_pages": 5,
+  "guide_file": "output/Final_Defence_Guide_EN_RU.docx",
+  "guide_sha256": "1b9b23d0fb0acd341bbe5bcb911e8eea5d29817bffa6c7b25f6c346460c3d3c3",
+  "guide_pages": 9,
+  "reference_count": 20,
+  "conservatively_verified_indexed_references": 6,
+  "figures": 2,
+  "analysis_tables": 4,
+  "hypothesis_analysis": "Executed post hoc two-sided exact Wilcoxon / six-comparison Holm; all adjusted p=0.375.",
+  "template_preservation": {
+    "changed_original_parts": [
+      "[Content_Types].xml",
+      "word/document.xml",
+      "word/_rels/document.xml.rels",
+      "word/footnotes.xml",
+      "docProps/core.xml"
+    ],
+    "new_parts": [
+      "word/media/image3.png",
+      "word/media/image4.png"
+    ],
+    "preserve_only_parts_unchanged": true
+  },
+  "delivery_scope": "Paper, speaking preparation and reproducibility files. Presentation was deferred by user.",
+  "remaining_user_items": [
+    "Four author email addresses",
+    "Presentation in the instructor template",
+    "Timed English rehearsal and individual preparation",
+    "Course Moodle plagiarism review and actual submission"
+  ]
+}

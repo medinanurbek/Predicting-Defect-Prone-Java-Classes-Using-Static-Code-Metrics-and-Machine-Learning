@@ -17,3 +17,5 @@ Assignment3_Practical/outputs_holdout/*.json -text whitespace=cr-at-eol
 Assignment3_Practical/outputs_holdout/executed_*.py -text whitespace=cr-at-eol
 *.docx binary
 *.zip binary
+# Generated Matplotlib SVG paths contain insignificant trailing spaces.
+Final_Paper/figures/*.svg -whitespace

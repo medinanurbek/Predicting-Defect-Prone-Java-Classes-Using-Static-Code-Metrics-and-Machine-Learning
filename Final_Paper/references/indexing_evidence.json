@@ -1,0 +1,47 @@
+{
+  "checked_date": "2026-11-15",
+  "reference_count": 20,
+  "conservatively_counted_indexed_journal_references": 6,
+  "fraction": 0.3,
+  "minimum_required": 0.3,
+  "basis": "Publisher journal pages explicitly list Scopus and/or Science Citation Index Expanded. Count is conservative; IEEE and JMLR items are not needed for the minimum.",
+  "scope": "Journal-level publisher evidence, not an exported individual Scopus/WoS record.",
+  "items": [
+    {
+      "number": 6,
+      "key": "dambros",
+      "journal": "Empirical Software Engineering",
+      "publisher_indexing_url": "https://link.springer.com/journal/10664"
+    },
+    {
+      "number": 10,
+      "key": "ferenc",
+      "journal": "Software Quality Journal",
+      "publisher_indexing_url": "https://link.springer.com/journal/11219"
+    },
+    {
+      "number": 13,
+      "key": "breiman",
+      "journal": "Machine Learning",
+      "publisher_indexing_url": "https://link.springer.com/journal/10994"
+    },
+    {
+      "number": 17,
+      "key": "varma",
+      "journal": "BMC Bioinformatics",
+      "publisher_indexing_url": "https://link.springer.com/journal/12859"
+    },
+    {
+      "number": 18,
+      "key": "saito",
+      "journal": "PLOS ONE",
+      "publisher_indexing_url": "https://journals.plos.org/plosone/s/journal-information"
+    },
+    {
+      "number": 20,
+      "key": "strobl",
+      "journal": "BMC Bioinformatics",
+      "publisher_indexing_url": "https://link.springer.com/journal/12859"
+    }
+  ]
+}

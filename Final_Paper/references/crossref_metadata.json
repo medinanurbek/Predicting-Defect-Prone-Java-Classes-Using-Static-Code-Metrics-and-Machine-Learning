@@ -1,0 +1,1338 @@
+{
+  "lessmann": {
+    "status": "verified Crossref metadata",
+    "doi": "10.1109/TSE.2008.35",
+    "metadata_url": "https://api.crossref.org/works/10.1109%2FTSE.2008.35",
+    "data": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2008,
+            7
+          ]
+        ]
+      },
+      "DOI": "10.1109/tse.2008.35",
+      "type": "journal-article",
+      "page": "485-496",
+      "title": [
+        "Benchmarking Classification Models for Software Defect Prediction: A Proposed Framework and Novel Findings"
+      ],
+      "volume": "34",
+      "author": [
+        {
+          "given": "S.",
+          "family": "Lessmann",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "B.",
+          "family": "Baesens",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "C.",
+          "family": "Mues",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "S.",
+          "family": "Pietsch",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "IEEE Transactions on Software Engineering"
+      ],
+      "URL": "https://doi.org/10.1109/tse.2008.35",
+      "published": {
+        "date-parts": [
+          [
+            2008,
+            7
+          ]
+        ]
+      }
+    }
+  },
+  "ck": {
+    "status": "verified Crossref metadata",
+    "doi": "10.1109/32.295895",
+    "metadata_url": "https://api.crossref.org/works/10.1109%2F32.295895",
+    "data": {
+      "issue": "6",
+      "published-print": {
+        "date-parts": [
+          [
+            1994,
+            6
+          ]
+        ]
+      },
+      "DOI": "10.1109/32.295895",
+      "type": "journal-article",
+      "page": "476-493",
+      "title": [
+        "A metrics suite for object oriented design"
+      ],
+      "volume": "20",
+      "author": [
+        {
+          "given": "S.R.",
+          "family": "Chidamber",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "MIT, Cambridge, MA, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "C.F.",
+          "family": "Kemerer",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "MIT, Cambridge, MA, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "IEEE Transactions on Software Engineering"
+      ],
+      "URL": "https://doi.org/10.1109/32.295895",
+      "published": {
+        "date-parts": [
+          [
+            1994,
+            6
+          ]
+        ]
+      }
+    }
+  },
+  "menzies": {
+    "status": "verified Crossref metadata",
+    "doi": "10.1109/TSE.2007.256941",
+    "metadata_url": "https://api.crossref.org/works/10.1109%2FTSE.2007.256941",
+    "data": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2007,
+            1
+          ]
+        ]
+      },
+      "DOI": "10.1109/tse.2007.256941",
+      "type": "journal-article",
+      "page": "2-13",
+      "title": [
+        "Data Mining Static Code Attributes to Learn Defect Predictors"
+      ],
+      "volume": "33",
+      "author": [
+        {
+          "given": "Tim",
+          "family": "Menzies",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Lane Department of Computer Science and Electrical Engineering, West Virginia University, Morgantown, WV"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jeremy",
+          "family": "Greenwald",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Computer Science, Portland State University, Portland, OR"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Art",
+          "family": "Frank",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Computer Science, Portland State University, Portland, OR"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "IEEE Transactions on Software Engineering"
+      ],
+      "URL": "https://doi.org/10.1109/tse.2007.256941",
+      "published": {
+        "date-parts": [
+          [
+            2007,
+            1
+          ]
+        ]
+      }
+    }
+  },
+  "basili": {
+    "status": "verified Crossref metadata",
+    "doi": "10.1109/32.544352",
+    "metadata_url": "https://api.crossref.org/works/10.1109%2F32.544352",
+    "data": {
+      "issue": "10",
+      "published-print": {
+        "date-parts": [
+          [
+            1996,
+            10
+          ]
+        ]
+      },
+      "DOI": "10.1109/32.544352",
+      "type": "journal-article",
+      "page": "751-761",
+      "title": [
+        "A validation of object-oriented design metrics as quality indicators"
+      ],
+      "volume": "22",
+      "author": [
+        {
+          "given": "V.R.",
+          "family": "Basili",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "University of Maryland",
+              "place": [
+                "College Park, MD, USA"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "L.C.",
+          "family": "Briand",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Fraunhofer",
+              "place": [
+                "Kaiserslautern, Germany"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "W.L.",
+          "family": "Melo",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Centre de Recherche informatique de Montreal, Inc.",
+              "place": [
+                "Montreal, QUE, Canada"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "IEEE Transactions on Software Engineering"
+      ],
+      "URL": "https://doi.org/10.1109/32.544352",
+      "published": {
+        "date-parts": [
+          [
+            1996,
+            10
+          ]
+        ]
+      }
+    }
+  },
+  "hall": {
+    "status": "verified Crossref metadata",
+    "doi": "10.1109/TSE.2011.103",
+    "metadata_url": "https://api.crossref.org/works/10.1109%2FTSE.2011.103",
+    "data": {
+      "issue": "6",
+      "published-print": {
+        "date-parts": [
+          [
+            2012,
+            11
+          ]
+        ]
+      },
+      "DOI": "10.1109/tse.2011.103",
+      "type": "journal-article",
+      "page": "1276-1304",
+      "title": [
+        "A Systematic Literature Review on Fault Prediction Performance in Software Engineering"
+      ],
+      "volume": "38",
+      "author": [
+        {
+          "given": "Tracy",
+          "family": "Hall",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Brunel University, Uxbridge"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Sarah",
+          "family": "Beecham",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Limerick, Limerick"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "David",
+          "family": "Bowes",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Hertfordshire, Hatfield"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "David",
+          "family": "Gray",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Hertfordshire, Hatfield"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Steve",
+          "family": "Counsell",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Brunel University, Uxbridge"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "IEEE Transactions on Software Engineering"
+      ],
+      "URL": "https://doi.org/10.1109/tse.2011.103",
+      "published": {
+        "date-parts": [
+          [
+            2012,
+            11
+          ]
+        ]
+      }
+    }
+  },
+  "zimmermann": {
+    "status": "verified Crossref metadata",
+    "doi": "10.1145/1595696.1595713",
+    "metadata_url": "https://api.crossref.org/works/10.1145%2F1595696.1595713",
+    "data": {
+      "published-print": {
+        "date-parts": [
+          [
+            2009,
+            8,
+            24
+          ]
+        ]
+      },
+      "DOI": "10.1145/1595696.1595713",
+      "type": "proceedings-article",
+      "page": "91-100",
+      "title": [
+        "Cross-project defect prediction"
+      ],
+      "author": [
+        {
+          "given": "Thomas",
+          "family": "Zimmermann",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Microsoft Research, Redmond, WA, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Nachiappan",
+          "family": "Nagappan",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Microsoft Research, Redmond, WA, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Harald",
+          "family": "Gall",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Zurich, Zurich, Switzerland"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Emanuel",
+          "family": "Giger",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Zurich, Zurich, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Brendan",
+          "family": "Murphy",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Microsoft Research, Cambridge, United Kingdom"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2009,
+            8,
+            24
+          ]
+        ]
+      },
+      "container-title": [
+        "Proceedings of the 7th joint meeting of the European software engineering conference and the ACM SIGSOFT symposium on The foundations of software engineering"
+      ],
+      "URL": "https://doi.org/10.1145/1595696.1595713",
+      "published": {
+        "date-parts": [
+          [
+            2009,
+            8,
+            24
+          ]
+        ]
+      }
+    }
+  },
+  "herbold": {
+    "status": "verified Crossref metadata",
+    "doi": "10.1109/TSE.2017.2724538",
+    "metadata_url": "https://api.crossref.org/works/10.1109%2FTSE.2017.2724538",
+    "data": {
+      "issue": "9",
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            9,
+            1
+          ]
+        ]
+      },
+      "DOI": "10.1109/tse.2017.2724538",
+      "type": "journal-article",
+      "page": "811-833",
+      "title": [
+        "A Comparative Study to Benchmark Cross-Project Defect Prediction Approaches"
+      ],
+      "volume": "44",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-9765-2803",
+          "authenticated-orcid": false,
+          "given": "Steffen",
+          "family": "Herbold",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Alexander",
+          "family": "Trautsch",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jens",
+          "family": "Grabowski",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "IEEE Transactions on Software Engineering"
+      ],
+      "URL": "https://doi.org/10.1109/tse.2017.2724538",
+      "published": {
+        "date-parts": [
+          [
+            2018,
+            9,
+            1
+          ]
+        ]
+      }
+    }
+  },
+  "hosseini": {
+    "status": "verified Crossref metadata",
+    "doi": "10.1109/TSE.2017.2770124",
+    "metadata_url": "https://api.crossref.org/works/10.1109%2FTSE.2017.2770124",
+    "data": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2019,
+            2,
+            1
+          ]
+        ]
+      },
+      "DOI": "10.1109/tse.2017.2770124",
+      "type": "journal-article",
+      "page": "111-147",
+      "title": [
+        "A Systematic Literature Review and Meta-Analysis on Cross Project Defect Prediction"
+      ],
+      "volume": "45",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-9356-3520",
+          "authenticated-orcid": false,
+          "given": "Seyedrebvar",
+          "family": "Hosseini",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1511-2163",
+          "authenticated-orcid": false,
+          "given": "Burak",
+          "family": "Turhan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-1870-9427",
+          "authenticated-orcid": false,
+          "given": "Dimuthu",
+          "family": "Gunarathna",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "IEEE Transactions on Software Engineering"
+      ],
+      "URL": "https://doi.org/10.1109/tse.2017.2770124",
+      "published": {
+        "date-parts": [
+          [
+            2019,
+            2,
+            1
+          ]
+        ]
+      }
+    }
+  },
+  "dambros": {
+    "status": "verified Crossref metadata",
+    "doi": "10.1007/s10664-011-9173-9",
+    "metadata_url": "https://api.crossref.org/works/10.1007%2Fs10664-011-9173-9",
+    "data": {
+      "issue": "4-5",
+      "published-print": {
+        "date-parts": [
+          [
+            2012,
+            8
+          ]
+        ]
+      },
+      "DOI": "10.1007/s10664-011-9173-9",
+      "type": "journal-article",
+      "page": "531-577",
+      "title": [
+        "Evaluating defect prediction approaches: a benchmark and an extensive comparison"
+      ],
+      "volume": "17",
+      "author": [
+        {
+          "given": "Marco",
+          "family": "D’Ambros",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Michele",
+          "family": "Lanza",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Romain",
+          "family": "Robbes",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2011,
+            8,
+            17
+          ]
+        ]
+      },
+      "container-title": [
+        "Empirical Software Engineering"
+      ],
+      "URL": "https://doi.org/10.1007/s10664-011-9173-9",
+      "published": {
+        "date-parts": [
+          [
+            2011,
+            8,
+            17
+          ]
+        ]
+      }
+    }
+  },
+  "ferenc": {
+    "status": "verified Crossref metadata",
+    "doi": "10.1007/s11219-020-09515-0",
+    "metadata_url": "https://api.crossref.org/works/10.1007%2Fs11219-020-09515-0",
+    "data": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            12
+          ]
+        ]
+      },
+      "DOI": "10.1007/s11219-020-09515-0",
+      "type": "journal-article",
+      "page": "1447-1506",
+      "title": [
+        "A public unified bug dataset for java and its assessment regarding metrics and bug prediction"
+      ],
+      "volume": "28",
+      "author": [
+        {
+          "given": "Rudolf",
+          "family": "Ferenc",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Zoltán",
+          "family": "Tóth",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Gergely",
+          "family": "Ladányi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "István",
+          "family": "Siket",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Tibor",
+          "family": "Gyimóthy",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2020,
+            6,
+            3
+          ]
+        ]
+      },
+      "container-title": [
+        "Software Quality Journal"
+      ],
+      "URL": "https://doi.org/10.1007/s11219-020-09515-0",
+      "published": {
+        "date-parts": [
+          [
+            2020,
+            6,
+            3
+          ]
+        ]
+      }
+    }
+  },
+  "alzahrani": {
+    "status": "verified Crossref metadata",
+    "doi": "10.14569/IJACSA.2022.01305101",
+    "metadata_url": "https://api.crossref.org/works/10.14569%2FIJACSA.2022.01305101",
+    "data": {
+      "issue": "5",
+      "DOI": "10.14569/ijacsa.2022.01305101",
+      "type": "journal-article",
+      "title": [
+        "Using Machine Learning Techniques to Predict Bugs in Classes: An Empirical Study"
+      ],
+      "volume": "13",
+      "author": [
+        {
+          "given": "Musaad",
+          "family": "Alzahrani",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2022
+          ]
+        ]
+      },
+      "container-title": [
+        "International Journal of Advanced Computer Science and Applications"
+      ],
+      "URL": "https://doi.org/10.14569/ijacsa.2022.01305101",
+      "published": {
+        "date-parts": [
+          [
+            2022
+          ]
+        ]
+      }
+    }
+  },
+  "saito": {
+    "status": "verified Crossref metadata",
+    "doi": "10.1371/journal.pone.0118432",
+    "metadata_url": "https://api.crossref.org/works/10.1371%2Fjournal.pone.0118432",
+    "data": {
+      "issue": "3",
+      "DOI": "10.1371/journal.pone.0118432",
+      "type": "journal-article",
+      "page": "e0118432",
+      "title": [
+        "The Precision-Recall Plot Is More Informative than the ROC Plot When Evaluating Binary Classifiers on Imbalanced Datasets"
+      ],
+      "volume": "10",
+      "author": [
+        {
+          "given": "Takaya",
+          "family": "Saito",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Marc",
+          "family": "Rehmsmeier",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2015,
+            3,
+            4
+          ]
+        ]
+      },
+      "container-title": [
+        "PLOS ONE"
+      ],
+      "URL": "https://doi.org/10.1371/journal.pone.0118432",
+      "published": {
+        "date-parts": [
+          [
+            2015,
+            3,
+            4
+          ]
+        ]
+      }
+    }
+  },
+  "varma": {
+    "status": "verified Crossref metadata",
+    "doi": "10.1186/1471-2105-7-91",
+    "metadata_url": "https://api.crossref.org/works/10.1186%2F1471-2105-7-91",
+    "data": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2006,
+            12
+          ]
+        ]
+      },
+      "DOI": "10.1186/1471-2105-7-91",
+      "type": "journal-article",
+      "title": [
+        "Bias in error estimation when using cross-validation for model selection"
+      ],
+      "volume": "7",
+      "author": [
+        {
+          "given": "Sudhir",
+          "family": "Varma",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Richard",
+          "family": "Simon",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2006,
+            2,
+            23
+          ]
+        ]
+      },
+      "container-title": [
+        "BMC Bioinformatics"
+      ],
+      "URL": "https://doi.org/10.1186/1471-2105-7-91",
+      "published": {
+        "date-parts": [
+          [
+            2006,
+            2,
+            23
+          ]
+        ]
+      }
+    }
+  },
+  "strobl": {
+    "status": "verified Crossref metadata",
+    "doi": "10.1186/1471-2105-9-307",
+    "metadata_url": "https://api.crossref.org/works/10.1186%2F1471-2105-9-307",
+    "data": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2008,
+            12
+          ]
+        ]
+      },
+      "DOI": "10.1186/1471-2105-9-307",
+      "type": "journal-article",
+      "title": [
+        "Conditional variable importance for random forests"
+      ],
+      "volume": "9",
+      "author": [
+        {
+          "given": "Carolin",
+          "family": "Strobl",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Anne-Laure",
+          "family": "Boulesteix",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Thomas",
+          "family": "Kneib",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Thomas",
+          "family": "Augustin",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Achim",
+          "family": "Zeileis",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2008,
+            7,
+            11
+          ]
+        ]
+      },
+      "container-title": [
+        "BMC Bioinformatics"
+      ],
+      "URL": "https://doi.org/10.1186/1471-2105-9-307",
+      "published": {
+        "date-parts": [
+          [
+            2008,
+            7,
+            11
+          ]
+        ]
+      }
+    }
+  },
+  "breiman": {
+    "status": "verified Crossref metadata",
+    "doi": "10.1023/A:1010933404324",
+    "metadata_url": "https://api.crossref.org/works/10.1023%2FA%3A1010933404324",
+    "data": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2001,
+            10
+          ]
+        ]
+      },
+      "DOI": "10.1023/a:1010933404324",
+      "type": "journal-article",
+      "page": "5-32",
+      "title": [
+        "Random Forests"
+      ],
+      "volume": "45",
+      "author": [
+        {
+          "given": "Leo",
+          "family": "Breiman",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Machine Learning"
+      ],
+      "URL": "https://doi.org/10.1023/a:1010933404324",
+      "published": {
+        "date-parts": [
+          [
+            2001,
+            10
+          ]
+        ]
+      }
+    }
+  },
+  "chen": {
+    "status": "verified Crossref metadata",
+    "doi": "10.1145/2939672.2939785",
+    "metadata_url": "https://api.crossref.org/works/10.1145%2F2939672.2939785",
+    "data": {
+      "published-print": {
+        "date-parts": [
+          [
+            2016,
+            8,
+            13
+          ]
+        ]
+      },
+      "DOI": "10.1145/2939672.2939785",
+      "type": "proceedings-article",
+      "page": "785-794",
+      "title": [
+        "XGBoost"
+      ],
+      "author": [
+        {
+          "given": "Tianqi",
+          "family": "Chen",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "University of Washington, Seattle, WA, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Carlos",
+          "family": "Guestrin",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Washington, Seattle, WA, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "published-online": {
+        "date-parts": [
+          [
+            2016,
+            8,
+            13
+          ]
+        ]
+      },
+      "container-title": [
+        "Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining"
+      ],
+      "URL": "https://doi.org/10.1145/2939672.2939785",
+      "published": {
+        "date-parts": [
+          [
+            2016,
+            8,
+            13
+          ]
+        ]
+      }
+    }
+  }
+}

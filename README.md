@@ -4,6 +4,14 @@ Research Methods and Tools project at Astana IT University, group SE-2409.
 
 **Authors:** Kabysheva Zukhra, Nurbek Medina, Maksatova Akniyet, Nauryzbay Tomiris.
 
+## Final examination paper
+
+The final paper is `output/Final_Paper_Kabysheva_Nurbek_Maksatova_Nauryzbay.docx`: five pages in the supplied conference template, with 20 IEEE-style references, two figures and an exploratory statistical extension. Four email fields remain for author completion. Presentation creation was deferred by the team.
+
+`Final_Paper/` contains the executed two-sided Wilcoxon/Holm analysis, figure code and reference/indexing evidence. All six adjusted p values are 0.375; no significant baseline superiority is established. These tests were added after inspecting the earlier results and are explicitly exploratory. The original benchmark and Synapse evidence remain intact.
+
+See `Final_Paper/README_RU.md` and `output/Final_Defence_Guide_EN_RU.docx` for the team’s preparation checklist, an approximately 11-minute four-person speaking plan, Q&A and demo instructions. Word count does not guarantee speaking duration; rehearse with a timer. A Moodle plagiarism result is not included.
+
 The project investigates how well static code metrics predict Java classes with recorded defects and which metrics contribute to prediction. Assignment 4 contains the completed project-level benchmark, additional Synapse evaluation, research report and reproducibility package. The Assignment 3 pilot is retained as historical evidence.
 
 ## Run the complete Assignment 4 project from GitHub

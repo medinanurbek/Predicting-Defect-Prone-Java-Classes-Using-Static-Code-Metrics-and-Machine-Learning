@@ -1,0 +1,2 @@
+-r ../Assignment3_Practical/requirements.txt
+matplotlib==3.11.2
